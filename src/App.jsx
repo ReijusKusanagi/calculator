@@ -31,7 +31,7 @@ function App() {
   return (
     <div className="App">
       <div className="Header">
-        Calculator of Jeirus Kahill Cruz - WMD3A
+        Calculator of Jeirus Kahlil Cruz - WMD3A
       </div>
       <div className="Calculator">
         <CalcDisplay dispValue={disp}/>
